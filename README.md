@@ -1,2 +1,2 @@
 # first-web-design-
-not responsive
+creating project after learning the design rules and apply them
